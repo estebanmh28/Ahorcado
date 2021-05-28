@@ -1,0 +1,24 @@
+<resources>
+
+
+
+    <string name="app_name">Ahorcado</string>
+    <string name="question">Question</string>
+    <string name="check">Verificar</string>
+
+<string name="question_content">¿Cuál es la capital de Dinamarca?</string>
+
+    <array name="respuestas">
+        <item>Moscú</item>
+        <item>Lima</item>
+        <item>Bagdad</item>
+        <item>Copenhague</item>
+        <item>Tokio</item>
+        <item>Londres</item>
+        <item>Victoria</item>
+        <item>Damasco</item>
+
+    </array>
+    <integer name="respuesta_correcta">3</integer>
+
+</resources>
